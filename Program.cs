@@ -14,7 +14,7 @@ namespace TP2
         {
             foreach (var item in FakeDb.Instance.Users)
             {
-                Console.WriteLine(item);
+                Console.WriteLine("e");
             }
 
             #region Q1
